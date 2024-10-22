@@ -10,31 +10,8 @@
     {
 
         printf("nihao itcast!\n");
-        printf("nihuai ithm\n");
+        printf("nitaihuai ithm\n");
         return 0;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A
-A
-A
-A
-A
-A
     }
