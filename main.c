@@ -10,7 +10,11 @@
     {
 
         printf("nihao itcast!\n");
+
         printf("nitaihuai ithm\n");
+
+      printf("nizhenhuai ithm\n");
+
         return 0;
 
 
